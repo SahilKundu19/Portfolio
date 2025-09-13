@@ -53,7 +53,7 @@ export function Navbar() {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            <img src="/Images/Logo.png" alt="logo" className='h-10 w-12 rounded-md object-cover'/>
+            <img src="../../Images/Logo.png" alt="logo" className='h-10 w-12 rounded-md object-cover'/>
             <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
               
             </span>

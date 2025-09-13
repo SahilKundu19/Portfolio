@@ -13,7 +13,7 @@ const projects = [
     title: 'Trackify - Expense Tracker Web App',
     description: 'A modern, responsive expense tracker that helps users manage budgets, track spending, and visualize financial data with interactive charts and analytics.',
     longDescription: 'Trackify is a smart expense tracking app built with React, TypeScript, and Supabase to simplify personal finance management. Users can add, edit, and categorize expenses, set budgets, and analyze spending trends. With a clean UI, light/dark themes, and interactive charts, it delivers seamless money management across devices.',
-    image: 'Images/Trackify_Profile_Image.png',
+    image: '../../Images/Trackify_Profile_Image.png',
     tags: ['React', 'TypeScript', 'Tailwind CSS', 'Vite', 'Supabase', 'shadcn/ui', 'Recharts', 'Radix UI', 'Sonner', 'Vaul'],
     liveDemo: 'https://trackify-murex-seven.vercel.app/',
     github: 'https://github.com/SahilKundu19/Trackify',
@@ -45,7 +45,7 @@ const projects = [
         }
       ]
     },
-    screenshots: ['Images/Trackify_Image_1.png', 'Images/Trackify_Image_2.png', 'Images/Trackify_Image_3.png'],
+    screenshots: ['../../Images/Trackify_Image_1.png', '../../Images/Trackify_Image_2.png', '../../Images/Trackify_Image_3.png'],
     technologies: {
       frontend: ['React', 'TypeScript', 'Tailwind CSS', 'Vite', 'shadcn/ui', 'Recharts', 'Radix UI', 'Sonner'],
       backend: ['Supabase (auth APIs)'],
@@ -57,7 +57,7 @@ const projects = [
     title: 'NOTEsHIVE - Note Taking Web App',
     description: 'A modern, feature-rich note-taking application that enables users to create, organize, and manage notes with rich text editing, tagging, and real-time sync.',
     longDescription: 'NOTEsHIVE is a responsive note-taking platform built with React, TypeScript, and Firebase, featuring secure authentication, rich text editing, and real-time sync across devices. It supports color coding, tagging, favorites, archiving, and advanced search with filters for seamless organization. With a sleek UI powered by Tailwind CSS, Radix UI, and shadcn/ui, it delivers an intuitive, mobile-friendly experience with dark mode.',
-    image: 'Images/NOTEsHIVE_Profile_Image.png',
+    image: '../../Images/NOTEsHIVE_Profile_Image.png',
     tags: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Firebase', 'Radix UI', 'shadcn/ui'],
     liveDemo: 'https://not-es-hive-dyv7.vercel.app/',
     github: 'https://github.com/SahilKundu19/NOTEsHIVE',
@@ -87,7 +87,7 @@ const projects = [
         }
       ]
     },
-    screenshots: ['Images/NOTEsHIVE_Image_1.png', 'Images/NOTEsHIVE_Image_2.png', 'Images/NOTEsHIVE_Image_3.png'],
+    screenshots: ['../../Images/NOTEsHIVE_Image_1.png', '../../Images/NOTEsHIVE_Image_2.png', '../../Images/NOTEsHIVE_Image_3.png'],
     technologies: {
       frontend: ['React', 'TypeScript', 'Tailwind CSS', 'Vite', 'Radix UI', 'shadcn/ui', 'Lucide Icons'],
       backend: ['Firebase Authentication'],
@@ -99,7 +99,7 @@ const projects = [
     title: 'BlogVerse - Mordern Blogging Platform',
     description: 'A feature-rich blogging platform with markdown editing, authentication, real-time updates, and a sleek responsive design powered by Supabase and React.',
     longDescription: 'BlogVerse is a modern blogging platform that lets writers create, edit, and publish blogs with markdown support while engaging readers through comments. Readers can explore, search, and filter content in real time.',
-    image: 'Images/BlogVerse-Profile_Image.png',
+    image: '../../Images/BlogVerse-Profile_Image.png',
     tags: ['React', 'TypeScript', 'Tailwind CSS', 'Supabase', 'Markdown', 'Vite', 'Radix UI', 'PostgreSQL', 'Supabase Auth', 'Supabase Storage'],
     liveDemo: 'https://blog-verse-dun-nine.vercel.app/',
     github: 'https://github.com/SahilKundu19/BlogVerse',
@@ -129,7 +129,7 @@ const projects = [
         }
       ]
     },
-    screenshots: ['Images/BlogVerse_Image_1.png', 'Images/BlogVerse_Image_2.png', 'Images/BlogVerse_Image_3.png'],
+    screenshots: ['../../Images/BlogVerse_Image_1.png', '../../Images/BlogVerse_Image_2.png', '../../Images/BlogVerse_Image_3.png'],
     technologies: {
       frontend: ['React', 'TypeScript', 'Tailwind CSS', 'Vite', 'Radix UI', 'Markdown', 'Lucide React', 'Sonner', 'React Hook Form', 'Embla', 'Recharts', 'CMDk'],
       backend: ['Supabase Edge Functions', 'Supabase Auth', 'Supabase Storage'],
@@ -141,7 +141,7 @@ const projects = [
     title: 'WeatherNow - Modern Weather Web App',
     description: 'A responsive weather website featuring real-time weather data, 5-day forecasts, geolocation support, and a sleek glassmorphism design.',
     longDescription: 'WeatherNow is a sleek weather app that delivers accurate, real-time forecasts with details like temperature, humidity, wind, and air quality. Built with HTML, CSS, and JavaScript, it features geolocation, global city search, and unit toggling. With glassmorphism design, responsive layouts, and smooth animations, it ensures both functionality and visual appeal across devices.',
-    image: 'Images/WeatherNow_Profile_Image.png',
+    image: '../../Images/WeatherNow_Profile_Image.png',
     tags: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'OpenWeatherMap API', 'Geolocation API', 'LocalStorage'],
     liveDemo: 'https://weather-now-kappa-sandy.vercel.app/',
     github: 'https://github.com/SahilKundu19/WeatherNow',
@@ -169,7 +169,7 @@ const projects = [
         }
       ]
     },
-    screenshots: ['Images/WeatherNow_Image_1.png', 'Images/WeatherNow_Image_2.png'],
+    screenshots: ['../../Images/WeatherNow_Image_1.png', '../../Images/WeatherNow_Image_2.png'],
     technologies: {
       frontend: ['HTML5', 'CSS3', 'JavaScript (ES6+)'],
       backend: ['None'],

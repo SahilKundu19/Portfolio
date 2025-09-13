@@ -238,7 +238,7 @@ export function Hero() {
                 }}
               >
                 <ImageWithFallback
-                  src="Images/profile_image.png"
+                  src="../../Images/profile_image.png"
                   alt="Professional portrait"
                   className="w-full h-full object-cover rounded-full border-4 border-white/20 dark:border-gray-700/30 shadow-2xl"
                 />
